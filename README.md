@@ -1,5 +1,5 @@
 Customer Churn 
-Data Head is a Python-based project for performing data analysis, visualization, and modeling. It provides a collection of tools and utilities to streamline the process of working with data and deriving insights from it.
+Customer Churn is a Python project on performing data analysis, visualization, and modeling. It provides a collection of tools and utilities to streamline the process of working with data and deriving insights from it.
 
 Table of Contents
 Features
