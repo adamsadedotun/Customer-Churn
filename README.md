@@ -1,4 +1,4 @@
-Customer Churn Data Head
+Customer Churn 
 Data Head is a Python-based project for performing data analysis, visualization, and modeling. It provides a collection of tools and utilities to streamline the process of working with data and deriving insights from it.
 
 Table of Contents
@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/data-head.git
+git clone https://github.com/adamsadedotun/Customer-Churn.git
 Navigate to the project directory:
 
 bash
