@@ -18,7 +18,7 @@ To use Data Head, follow these steps:
 Clone the repository:
 
 bash
-Copy code
+Linkedin https://www.linkedin.com/in/adedotun-adams-0322a1154
 git clone https://github.com/adamsadedotun/Customer-Churn.git
 Navigate to the project directory:
 
